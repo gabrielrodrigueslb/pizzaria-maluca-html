@@ -1,0 +1,12 @@
+/* EXTERNOS */
+@import url(./bootstrap.min.css);
+@import url(./fontawesome.css);
+@import url(./animate.css);
+
+
+
+/* ESTILOS LOCAIS */
+@import url(./assets/cores.css);
+@import url(./assets/fonts.css);
+@import url(./assets/global.css);
+@import url(./main.css);
