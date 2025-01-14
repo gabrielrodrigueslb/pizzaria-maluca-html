@@ -21,3 +21,7 @@ b{
 .hidden{
     display: none !important;
 }
+
+.pr-0{
+    padding-right: 0px !important;
+}
